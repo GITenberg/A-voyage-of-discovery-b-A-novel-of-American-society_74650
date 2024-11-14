@@ -1,0 +1,28 @@
+_repo: A-voyage-of-discovery-b-A-novel-of-American-society_74650
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aïdé, Charles Hamilton
+    gutenberg_agent_id: '57586'
+    url: http://www.gutenberg.org/2009/agents/57586
+description: ''
+gutenberg_issued: '2024-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74650'
+language: en
+pgterms:marc904: https://archive.org/details/voyageofdiscover00aidiala
+pgterms:marc905: 20201228135531ad
+pgterms:marc906: '1892'
+pgterms:marc907: US
+production_note: Richard Hulse, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bHarper & Brothers, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A voyage of discovery : $b A novel of American society'
+url: http://www.gutenberg.org/ebooks/74650
